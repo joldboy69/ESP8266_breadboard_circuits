@@ -14,10 +14,14 @@ search for "ESP8266" and hover over "esp8266 by ESP8266 Community" and install i
 So go back to the "Tools" tab in your IDE and hover over "Boards: " again and scroll down until you get a greyed out "ESP8266 Boards
 header. Then select your board (mine was "Adafruit Feather Huzzah ESP8266" so i would click that). 
 
-Great, not that hard, right? So now you have the correct board selected. You can then download and open the ".ino" file in this folder (it 
-should automatically open in the Arduino IDE application). Connect your board to the computer with a micro usb cable (picture on the front 
-page again dumbass) and wait for your computer to recognize it. Once that is done, go to the "Tools" tab once again and go down to the port 
-tab. Make sure your device is selected (to avoid confusion, try to use one board at a time). And for the final step, just click the arrow facing to the right in the top right corner of the window to flash teh software onto your device. 
+Great, not that hard, right? So now you have the correct board selected. You can then download and open the ".ino" file in this folder 
+(it 
+should automatically open in the Arduino IDE application). Connect your board to the computer with a micro usb cable (picture on the 
+front 
+page again dumbass) and wait for your computer to recognize it. Once that is done, go to the "Tools" tab once again and go down to the 
+port 
+tab. Make sure your device is selected (to avoid confusion, try to use one board at a time). And for the final step, just click the 
+arrow facing to the right in the top right corner of the window to flash the software onto your device. It may take a minute, and if you get a few errors, thats fine. Once flashing is complete, you can unplug the esp and go to the hardware setup.  
 
 ------------------------------------------------------------------------------------------------------------------------------------
 Hardware
