@@ -25,6 +25,8 @@ Hardware
 
 Just get the parts required and follow my image example. 
 
+Once your piece looks like my picture, you can just plug the esp into a power source and watch the magic (hopefully) happen!
+
 
 
 
