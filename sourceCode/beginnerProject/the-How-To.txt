@@ -1,6 +1,7 @@
 #First times the charm
 
-Right, so I'm too lazy to explain everything right now. So until I update this, just use the sourcecode in this folder  (which explains everything) and follow the picture below to guide you through the physical setup.
+Right, so I'm too lazy to explain everything right now. So until I update this, just use the sourcecode in this folder  (which explains 
+everything in comments) and follow the picture below to guide you through the physical setup.
 
 
 
