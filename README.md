@@ -11,6 +11,8 @@ If you want to make these projects yourself, you are going to need the following
 
 -Breadboard buttons
 
+-Jumper wires
+
 -Computer to program the esp8266 (mac or pc is fine)
 
 -Arduino IDE for your computer (https://www.arduino.cc/en/main/software)
