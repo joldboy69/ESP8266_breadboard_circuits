@@ -7,7 +7,7 @@ If you want to make these projects yourself, you are going to need the following
 
 -Some led lights
 
--Esp8266 with C port usb (I used the Huzzah Feather specifically)
+-Esp8266 with micro usb (I used the Huzzah Feather specifically)
 
 -Breadboard buttons
 
