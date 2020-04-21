@@ -1,7 +1,31 @@
-#First times the charm
+First times the charm
 
-Right, so I'm too lazy to explain everything right now so I'll just explain some of it. Just use the sourcecode in 
-this folder  (which explains the code in comments) and follow the picture in the "physicalSetup" folder for the physical setup.
+Right, so I'm too lazy to explain everything right now so I'll just explain some of it. 
+
+Software
+-----------------------------------------------------------------------------------------------------------------------------------
+You will need the Arduino IDE downloaded to your PC or Mac (link on the homepage idiot). After the download, you need to install 
+the software. After you hopefully installed it correctly, open the program. You will need to go to the "File" tab, scroll down to the 
+"Preferences" tab and click it. You will get another window titled "Preferences". Go down to "Additional Boards Manager URL: " and add this 
+link: http://arduino.esp8266.com/stable/package_esp8266com_index.json. After that click "Ok" at the bottom of the page. 
+
+Next, go to the "Tools" tab and hover over "Board: ". You will get another popup and go to the top and click "Boards Manager...". Then 
+search for "ESP8266" and hover over "esp8266 by ESP8266 Community" and install it. You can close the window when installation is complete. 
+So go back to the "Tools" tab in your IDE and hover over "Boards: " again and scroll down until you get a greyed out "ESP8266 Boards
+header. Then select your board (mine was "Adafruit Feather Huzzah ESP8266" so i would click that). 
+
+Great, not that hard, right? So now you have the correct board selected. You can then download and open the ".ino" file in this folder (it 
+should automatically open in the Arduino IDE application). Connect your board to the computer with a micro usb cable (picture on the front 
+page again dumbass) and wait for your computer to recognize it. Once that is done, go to the "Tools" tab once again and go down to the port 
+tab. Make sure your device is selected (to avoid confusion, try to use one board at a time). And for the final step, just click the arrow facing to the right in the top right corner of the window to flash teh software onto your device. 
+
+------------------------------------------------------------------------------------------------------------------------------------
+Hardware
+------------------------------------------------------------------------------------------------------------------------------------
+
+Just get the parts required and follow my image example. 
+
+
 
 
 
