@@ -18,4 +18,7 @@ If you want to make these projects yourself, you are going to need the following
 -A brain
 
 
+Instructions will be inside the project folders. 
+
+
 
