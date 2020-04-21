@@ -1,7 +1,11 @@
 #First times the charm
 
-Right, so I'm too lazy to explain everything right now. So until I update this, just use the sourcecode in this folder  (which explains 
-everything in comments) and follow the picture below to guide you through the physical setup.
+Right, so I'm too lazy to explain everything right now so I'll just explain some of it. Just use the sourcecode in 
+this folder  (which explains the code in comments) and follow the picture in the "physicalSetup" folder for the physical setup.
+
+
+
+
 
 
 
